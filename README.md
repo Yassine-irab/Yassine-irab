@@ -8,7 +8,7 @@ As an experienced Frontend Developer and Web Designer, I bring a dynamic blend o
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
