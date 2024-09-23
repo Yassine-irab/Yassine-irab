@@ -7,6 +7,7 @@ I bring a dynamic blend of technical expertise and creative flair to every proje
 In addition to my technical skills, I am an excellent communicator, able to convey complex ideas clearly and effectively to both technical and non-technical stakeholders. My goal is to not only meet the needs of my clients but to anticipate future trends and ensure their digital presence remains cutting-edge.
 
 I am excited to bring my expertise and enthusiasm to your next project and help you achieve your vision with creativity and precision.
+
 ---
 
 ### Languages and Tools
