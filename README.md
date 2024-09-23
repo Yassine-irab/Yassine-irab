@@ -2,8 +2,11 @@
 
 Clients often struggle with creating visually appealing websites that are also fast and responsive across all devices. As a front-end developer and web designer, I specialize in crafting modern, user-friendly websites that not only look great but perform flawlessly, helping businesses enhance their online presence and user engagement.
 
-As an experienced Frontend Developer and Web Designer, I bring a dynamic blend of technical expertise and creative flair to every project 😊 With over 5 years in the industry, I specialize in creating visually stunning and highly functional websites that not only meet client expectations but exceed them.
+I bring a dynamic blend of technical expertise and creative flair to every project 😊 With over 5 years in the industry, I specialize in creating visually stunning and highly functional websites that not only meet client expectations but exceed them.
 
+In addition to my technical skills, I am an excellent communicator, able to convey complex ideas clearly and effectively to both technical and non-technical stakeholders. My goal is to not only meet the needs of my clients but to anticipate future trends and ensure their digital presence remains cutting-edge.
+
+I am excited to bring my expertise and enthusiasm to your next project and help you achieve your vision with creativity and precision.
 ---
 
 ### Languages and Tools
