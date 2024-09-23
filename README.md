@@ -1,6 +1,4 @@
-# Yassine Irab
-
-**`Front-end web developer & web designer`**
+# Front-end Developer & Web Designer
 
 Clients often struggle with creating visually appealing websites that are also fast and responsive across all devices. As a front-end developer and web designer, I specialize in crafting modern, user-friendly websites that not only look great but perform flawlessly, helping businesses enhance their online presence and user engagement.
 
